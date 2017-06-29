@@ -1,0 +1,12 @@
+{
+  "name": "Kwon-Seok-Hwan-s-chat-app",
+  "version": "0.0.2",
+  "description": "Kwon-Seok-Hwans chat app",
+  "dependencies": {
+    "express": "^4.15.2",
+    "socket.io": "^1.7.4"
+  },
+  "scripts": {
+    "start": "node index.js"
+  }
+}
